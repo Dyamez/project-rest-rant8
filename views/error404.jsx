@@ -19,6 +19,4 @@ function error404 () {
     )
   };
   
-module.exports = error404;
-
-//"https://i.pinimg.com/originals/38/08/b6/3808b6d5efcd959522213a8c730d8044.png"
+module.exports = error404
